@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+Passionate about Elm, learning Purescript, loving functionnal programming since [Professor Frisby's Mostly Adequate Guide To Functional Programming](https://drboolean.gitbooks.io/mostly-adequate-guide-old/content/)
+
+📫 To reach me:
+- [Twitter](https://twitter.com/euregan)
+
+😄 Pronouns:
+He/Him
+
+
 <!--
 **Euregan/Euregan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
