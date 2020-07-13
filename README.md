@@ -1,11 +1,13 @@
 ### Hi there 👋
 
-Passionate about Elm, learning Purescript, loving functionnal programming since [Professor Frisby's Mostly Adequate Guide To Functional Programming](https://drboolean.gitbooks.io/mostly-adequate-guide-old/content/)
+Passionate about Elm, learning Purescript, loving functionnal programming since [Professor Frisby's Mostly Adequate Guide To Functional Programming](https://drboolean.gitbooks.io/mostly-adequate-guide-old/content/).
+
+Currently working on improving [Kanshi](https://github.com/euregan/kanshi). Ask me about it! 😄
 
 #### 📫 To reach me:
 - [Twitter](https://twitter.com/euregan)
 
-#### 😄 Pronouns:
+#### 👥 Pronouns:
 He/Him
 
 
