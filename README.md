@@ -12,7 +12,7 @@ He/Him
 
 #### I have trophies :D
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=euregan&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <!--
