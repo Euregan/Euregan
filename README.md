@@ -10,10 +10,6 @@ Currently working on improving [Kanshi](https://github.com/euregan/kanshi). Ask 
 #### 👥 Pronouns:
 He/Him
 
-#### I have trophies :D
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=euregan&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 
 <!--
 **Euregan/Euregan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
